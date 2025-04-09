@@ -1,0 +1,36 @@
+h1{
+    color:aqua;
+    background-color: cadetblue;
+    text-align: center;
+    border: 1px red solid;
+
+}
+P{
+    color: burlywood;
+    background-color: brown;
+    border: 5px red solid;
+    margin-top: 10px;
+    margin-bottom: 10;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 100px;
+    padding-left: 15px;
+    padding-right: 15;
+}
+P{
+    color: blueviolet;
+    background-color: black;
+    border: 5px red;
+    border-style: dashed;
+    padding: 30px;
+    line-height: 30px;
+}
+#terserah{
+    background-image: url("../image/background.avif" );
+
+}
+#terserah h1 {
+    background-color: 
+    transparent;
+    border: none;
+}
