@@ -30,7 +30,36 @@ P{
 
 }
 #terserah h1 {
-    background-color: 
-    transparent;
+    background-color: transparent;
     border: none;
+    color: white;
+}
+#kotaksatu{
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+#kotakdua{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    display: inline-block;
+
+}
+#lingkaran{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 50px; 
+}
+#persegipanjang{
+    width: 100px;
+    height: 50px;
+    background-color: burlywood;
+    display: inline-block;
+    
+
+    
 }
